@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @pedro-design
 - 👀 I’m interested in python and the amazing Tensorflow
-- 🌱 I’m currently learning python and  Tensorflow
+- 🌱 I’m currently learning python and  Pytorch
 - 📫 I’m  from mexico and I like so much programing
 
 <!---
